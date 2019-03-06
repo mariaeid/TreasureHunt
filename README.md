@@ -1,7 +1,6 @@
 # Treasurehunt
 
-<iframe src="https://giphy.com/embed/xT8qB8oFGOF8U13fCo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lopezontvland-lopez-george-on-tv-land-xT8qB8oFGOF8U13fCo">via GIPHY</a></p>
-//<img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" alt="07 - Cyberlink" width="50%">
+<img src="https://media.giphy.com/media/xT8qB8oFGOF8U13fCo/giphy.gif" alt="" width="50%">
 
 This is the first assignment in the course C# at YRGO yrkeshögskola. It's a console application game for finding hidden treasures.
 
