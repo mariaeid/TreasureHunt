@@ -7,6 +7,7 @@ This is the first assignment in the course C# at YRGO yrkeshögskola. It's a con
 ### Prerequisites
 
 You need Visual Studio to play the game.
+Open the TreasureHunt solution file and run the program via "start without debugging".
 
 
 ## Built With
