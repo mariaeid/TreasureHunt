@@ -28,6 +28,7 @@ namespace TreasureHunt
             Console.WriteLine("=====================");
             Console.WriteLine("   TREASURE HUNT");
             Console.WriteLine("=====================");
+            Console.SetCursorPosition(0, 5);
             Console.WriteLine($"Go ahead and search for the hidden treasures. There are {treasureCoordinates.Count()} to find. Good luck!");
 
             //Printing the gameboard to the console
